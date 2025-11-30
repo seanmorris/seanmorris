@@ -3,7 +3,7 @@
 # <img style = "vertical-align: bottom" src = "./sean-icon.png"> About me
 
 <table>
-<tr>
+<tr style = "border: none;">
 <td style = "text-align:center; background:#8888">
 <figure>
 <img src = "macintosh-128k.png">
