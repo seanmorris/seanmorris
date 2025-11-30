@@ -2,16 +2,22 @@
 
 # <img style = "vertical-align: bottom" src = "./sean-icon.png"> About me
 
-<table>
-<tr style = "border: none;">
-<td style = "text-align:center; background:#8888">
-<figure>
-<img src = "macintosh-128k.png">
-<figcaption>This was one of the first computers I ever used as a kid.</figcaption>
-</figure>
-</td>
-<td style="vertical-align:top;">
+https://seanmorr.is | https://php-wasm.seanmorr.is|
 
+https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ | https://github.com/seanmorris
+
+<div>
+
+<table><tr>
+  <td valign = "top" td align = "center">
+    <div background = "#8888">
+    <img height = "385px" src = "macintosh-128k.png">
+    <div>This was one of the first computers I ever used as a kid.</div>
+    </div>
+    </div>
+  </td>
+  <td valign = "top">
+    
 * I created [php-wasm](https://php-wasm.com/), which powers frontend php applications like wordpress playground.
 
 * I'm working on a [Sonic Fangame](https://sonic-3000.seanmorr.is/) in my spare time.
@@ -20,17 +26,14 @@
 
 * I've contributed code to the [Emscripten project](https://emscripten.org/docs/contributing/AUTHORS.html) (because of php-wasm).
 
-* Besides running php on the frontend, I like doing weird stuff like running LUA on SD cards and parsing gameboy games with Javascript.
-
-
+* Besides running php on the frontend, I like doing weird stuff like running [LUA on SD cards](https://github.com/seanmorris/airmorris) and [parsing gameboy games with Javascript](http://github.com/seanmorris/pokemon-parser).
 </td>
-<tr>
-</table>
+</td></table>
 
 
 ## Tools I use
 
-<div style = "text-align:center">
+<div align = "center">
 <img height = "80" alt = "php" title = "php" src = "./logos/php.svg">
 <img height = "80" alt = "wasm" title = "wasm" src = "./logos/wasm.svg">
 <img height = "80" alt = "c" title = "c" src = "./logos/c.svg">
