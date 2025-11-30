@@ -18,7 +18,7 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
   </td>
   <td valign = "top">
     
-* I created [php-wasm](https://php-wasm.com/), which powers frontend php applications like wordpress playground.
+* I created [php-wasm](https://php-wasm.com/), which powers frontend php applications like [wordpress playground](https://wordpress.org/playground/).
 
 * I'm working on a [Sonic Fangame](https://sonic-3000.seanmorr.is/) in my spare time.
 
