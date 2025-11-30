@@ -1,14 +1,14 @@
 <!-- ![seanmorris' GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmorris&show_icons=true&theme=transparent) -->
 
-# <img src = "./sean-icon.png"> About me
+# <img style = "vertical-align: bottom" src = "./sean-icon.png"> About me
 
 <table>
 <tr>
-<td>
-<fig>
+<td style = "text-align:center; background:#8888">
+<figure>
 <img src = "macintosh-128k.png">
 <figcaption>This was one of the first computers I ever used as a kid.</figcaption>
-</fig>
+</figure>
 </td>
 <td style="vertical-align:top;">
 
@@ -16,7 +16,7 @@
 
 * I'm working on a [Sonic Fangame](https://sonic-3000.seanmorr.is/) in my spare time.
 
-* I started my first website in 1998 in elementary school, which started my addiction to the web. (It was for pokemon cheats.)
+* I started my first website in 1998, which started my addiction to the web. (It was for pokemon cheats)
 
 * I've contributed code to the [Emscripten project](https://emscripten.org/docs/contributing/AUTHORS.html) (because of php-wasm).
 
@@ -30,7 +30,7 @@
 
 ## Tools I use
 
-<div align = "center">
+<div style = "text-align:center">
 <img height = "80" alt = "php" title = "php" src = "./logos/php.svg">
 <img height = "80" alt = "wasm" title = "wasm" src = "./logos/wasm.svg">
 <img height = "80" alt = "c" title = "c" src = "./logos/c.svg">
