@@ -2,7 +2,7 @@
 
 # <img style = "vertical-align: bottom" src = "./sean-icon.png"> About me
 
-https://seanmorr.is | https://php-wasm.seanmorr.is|
+https://seanmorr.is | https://php-wasm.seanmorr.is
 
 https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ | https://github.com/seanmorris
 
