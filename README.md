@@ -8,6 +8,8 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 
 <div>
 
+<br />
+
 <table><tr>
   <td valign = "top" td align = "center">
     <div background = "#8888">
@@ -46,6 +48,7 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 <img height = "80" alt = "css" title = "css" src = "./logos/css.svg">
 <img height = "80" alt = "html" title = "html" src = "./logos/html.svg">
 <img height = "80" alt = "react" title = "react" src = "./logos/react.svg">
+
 <img height = "80" alt  = "emscripten" title  = "emscripten" src = "./logos/emscripten-wide.svg">
 
 <img height = "80" alt = "debian" title = "debian" src = "./logos/debian.svg">
@@ -65,8 +68,12 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 
 </div>
 
+<br /><br />
+
 <div align = "center">
+  
 *Coding is an art.*
+
 </div>
 <!--
 **seanmorris/seanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
