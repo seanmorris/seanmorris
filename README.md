@@ -13,8 +13,7 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 <table><tr>
   <td valign = "top" td align = "center">
     <div background = "#8888">
-    <img height = "385px" src = "macintosh-128k.png">
-    <div>This was one of the first computers I ever used as a kid.</div>
+    <img height = "385px" src = "sigil.svg">
     </div>
     </div>
   </td>
