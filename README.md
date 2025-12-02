@@ -23,7 +23,7 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 
 * I'm working on a [Sonic Fangame](https://sonic-3000.seanmorr.is/) in my spare time.
 
-* I started my first website in 1998, which started my addiction to the web. (It was for pokemon cheats)
+<!-- * I started my first website in 1998, which started my addiction to the web. (It was for pokemon cheats) -->
 
 * I've contributed code to the [Emscripten project](https://emscripten.org/docs/contributing/AUTHORS.html) (because of php-wasm).
 
