@@ -66,6 +66,25 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 
 </div>
 
+---
+
+### I am giving up my bed for one night.
+> My Sleep Out helps youth facing homelessness find safe shelter and loving care at Covenant House. That care includes essential services like education, job training, medical care, mental health and substance use counseling, and legal aid — everything they need to build independent, sustainable futures.
+>
+> By supporting my Sleep Out, you are supporting the dreams of young people overcoming homelessness.
+> 
+> <a href = "https://www.sleepout.org/participants/62915"><img width = "50%" alt="Donate to Covenant House" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.sleepout.org%2Fapi%2F1.3%2Fparticipants%2F62915%3F_%3D1760039017428&query=%24.sumDonations&prefix=%24&suffix=%20Raised&style=for-the-badge&label=Sleep%20Out%3A%20NYC&link=https%3A%2F%2Fwww.sleepout.org%2Fparticipants%2F62915"></a>
+>
+> Click here to help out: https://www.sleepout.org/participants/62915
+>
+> More info: https://www.sleepout.org/ | https://www.covenanthouse.org/ | https://www.charitynavigator.org/ein/132725416
+> 
+> Together, we are working towards a future where every young person has a safe place to sleep.
+>
+> Thank you.
+
+---
+
 <br /><br />
 
 <div align = "center">
@@ -73,17 +92,4 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 *Coding is an art.*
 
 </div>
-<!--
-**seanmorris/seanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
