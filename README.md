@@ -70,7 +70,7 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 
 </div>
 
----
+<!-- ---
 
 ### I am giving up my bed for one night.
 > My Sleep Out helps youth facing homelessness find safe shelter and loving care at Covenant House. That care includes essential services like education, job training, medical care, mental health and substance use counseling, and legal aid — everything they need to build independent, sustainable futures.
@@ -87,7 +87,7 @@ https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ |
 >
 > Thank you.
 
----
+--- -->
 
 <br /><br />
 
