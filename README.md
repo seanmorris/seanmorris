@@ -1,6 +1,10 @@
 <!-- ![seanmorris' GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmorris&show_icons=true&theme=transparent) -->
 
-# <img style = "vertical-align: bottom" src = "./sean-icon.png"> About me
+# Sean Morris
+
+<div align = "center">
+<img height = "280" alt = "php" title = "php" src = "./logos/sean-banner.svg">
+</div>
 
 https://seanmorr.is/ | https://php-wasm.com/
 
