@@ -4,11 +4,10 @@
 
 <div align = "center">
 <img height = "280" alt = "php" title = "php" src = "./logos/sean-banner.svg">
-</div>
-
 https://seanmorr.is/ | https://php-wasm.com/
 
 https://www.npmjs.com/~seanmorris | https://packagist.org/packages/seanmorris/ | https://github.com/seanmorris
+</div>
 
 <div>
 
